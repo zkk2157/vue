@@ -1,6 +1,6 @@
 # my first vue app
 
-## Project setup
+## hungry
 ```
 npm install
 ```
